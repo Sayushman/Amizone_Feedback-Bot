@@ -30,6 +30,7 @@ pip install selenium
 
       git clone https://github.com/yourusername/amizone-feedback-bot.git
       cd amizone-feedback-bot
+      python3 amizone-feedback-bot 
 
     Update Credentials Setup
 
